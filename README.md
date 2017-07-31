@@ -1,2 +1,2 @@
-# scraper_demo
-This is a demo of a scraper written in NodeJS
+## Scraper demo
+This repository is used for a tutorial in scraping.
